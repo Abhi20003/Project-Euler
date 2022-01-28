@@ -1,4 +1,4 @@
-f1=r"C:\Users\91971\OneDrive\Desktop\names.txt"
+f1=r"https://github.com/Abhi20003/Project-Euler/blob/main/names_input_22.txt"
 file=open(f1,'r')
 temp="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 d={}
